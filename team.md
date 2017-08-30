@@ -24,6 +24,6 @@ Fred is a roboticist and computer scientist, with significant experience in tech
 Nick has a broad business experience over 20 years in seeding and leading teams in consulting, branding and creative agencies. Nick has conceived strategies and lead creative for outlying success campaigns for government agencies, private clients, leisure industry and state elections. He is our non-tech thinker, sometimes futurist, communicator, and user analyst.    
 
 **Peter Godbolt**     
-*Advisor*
+*Advisor*  
 Peter has extensive blockchain experience, having co-founded and led several projects. Having worked on a number of high profile token sales throught 2016 / 2017, he brings 'in the trenches' experience, along with a helicopter view of the dynamics of blockchain innovation.
 
