@@ -1,4 +1,4 @@
-**The Hut34 Project Team**    
+##The Hut34 Project Team##    
 
 **Timothy McNamara B.Sc**    
 *System Architect*      
