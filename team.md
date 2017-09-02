@@ -1,14 +1,20 @@
 ## The Hut34 Project Team 
 
+
 **Timothy McNamara B.Sc**    
 *System Architect*      
 Tim delivers over 20 years experience in technology, finance and commerce. He has extensive experience in early stage technology development, market exchanges, and delivery of fintech projects; both on the ground, and as an investor and advisor. In addition to Hut34, most recent projects include development of artficial intelligence and chatbot services for early stage fintech projects.  
-https://www.linkedin.com/in/tim-mcnamara-404221137/ 
+https://www.linkedin.com/in/tim-mcnamara-404221137   
 
 **Nicholas McDowell B.Eng**    
 *Technology*    
-Nicholas brings to bear an extremely rich body of experience, covering areas so diverse they extend from Silicon Valley startups, to the Visual FX industry, to delivering on-the-ground solutions for the US Department of Defense. His capabilities enable him to facilitate the orchestration of architecture, design, development, test and successful delivery secure, robust and tested platforms and products that breathe agility through world class continuous integration and development pipelines. 
-https://www.linkedin.com/in/nicholasmcdowell/    
+Nicholas brings to bear an extremely rich body of experience, covering areas so diverse they extend from Silicon Valley startups, to the Visual FX industry, to delivering on-the-ground solutions for the US Department of Defense. His capabilities enable him to facilitate the orchestration of architecture, design, development, test and successful delivery secure, robust and tested platforms and products that breathe agility through world class continuous integration and development pipelines.   
+https://www.linkedin.com/in/nicholasmcdowell      
+
+**Peter Godbolt**     
+*Blockchain Advisor*  
+Peter has extensive blockchain experience, having co-founded and led several projects. Having worked on a number of high profile token sales throught 2016 / 2017, he brings 'in the trenches' experience, along with a helicopter view of the dynamics of blockchain innovation.  
+https://www.linkedin.com/in/peter-godbolt-2255b811a    
 
 **Paweł Mordaszewski B.Sc**     
 *Full Stack Engineer*    
@@ -25,10 +31,4 @@ Fred is a roboticist and computer scientist, with significant experience in tech
 **Nicolas Richter B. Arts(Arch), B. Arch (Hons)**    
 *Communication*      
 Nick has a broad business experience over 20 years in seeding and leading teams in consulting, branding and creative agencies. Nick has conceived strategies and lead creative for outlying success campaigns for government agencies, private clients, leisure industry and state elections. He is our non-tech thinker, sometimes futurist, communicator, and user analyst.   
-https://www.linkedin.com/in/nickrichter/    
-
-**Peter Godbolt**     
-*Advisor*  
-Peter has extensive blockchain experience, having co-founded and led several projects. Having worked on a number of high profile token sales throught 2016 / 2017, he brings 'in the trenches' experience, along with a helicopter view of the dynamics of blockchain innovation.  
-https://www.linkedin.com/in/peter-godbolt-2255b811a/    
-
+https://www.linkedin.com/in/nickrichter  
