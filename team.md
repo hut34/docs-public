@@ -27,3 +27,8 @@ Shahbaz has completed a Masters in Computer Science and has over 10 years develo
 **Fred Westling B.Eng B.Sc**      
 *Computer Scientist & Engineer*    
 Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.  
+
+**Benjamin Kassel**
+*Communication*
+Ben, is our communication guru. Starting his career at TBWA/ London, then working in Duesseldorf, Berlin and Sydney, fortunate enough to work digital and social media campaigns for Singapore Airlines, Mazda, Lion Nathan, News Corp, UNSW, George Weston Food and Oporto. At the beginning of 2015 he founded the digital agency [Haimat] whilst also now working on two new start-up projects. He has a curiosity for experiences, storytelling and looking at things differently.
+https://www.linkedin.com/in/benjamin-kassel-1a041b28/
