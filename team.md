@@ -27,8 +27,3 @@ Shahbaz has completed a Masters in Computer Science and has over 10 years develo
 **Fred Westling B.Eng B.Sc**      
 *Computer Scientist & Engineer*    
 Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.  
-
-**Nicolas Richter B. Arts(Arch), B. Arch (Hons)**    
-*Communication*      
-Nick has a broad business experience over 20 years in seeding and leading teams in consulting, branding and creative agencies. Nick has conceived strategies and lead creative for outlying success campaigns for government agencies, private clients, leisure industry and state elections. He is our non-tech thinker, sometimes futurist, communicator, and user analyst.   
-https://www.linkedin.com/in/nickrichter  
