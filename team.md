@@ -6,15 +6,15 @@
 Tim delivers over 20 years experience in technology, finance and commerce. He has extensive experience in early stage technology development, market exchanges, and delivery of fintech projects; both on the ground, and as an investor and advisor. In addition to Hut34, most recent projects include development of artficial intelligence and chatbot services for early stage fintech projects.  
 https://www.linkedin.com/in/tim-mcnamara-404221137   
 
+**Peter Godbolt**     
+*Blockchain Advisor*  
+Peter has extensive blockchain experience, having co-founded and led several projects. Having worked on a number of high profile token sales throught 2016 / 2017, he brings 'in the trenches' experience, along with a helicopter view of the dynamics of blockchain innovation.  
+https://www.linkedin.com/in/peter-godbolt-2255b811a
+
 **Nicholas McDowell B.Eng**    
 *Technology*    
 Nicholas brings to bear an extremely rich body of experience, covering areas so diverse they extend from Silicon Valley startups, to the Visual FX industry, to delivering on-the-ground solutions for the US Department of Defense. His capabilities enable him to facilitate the orchestration of architecture, design, development, test and successful delivery secure, robust and tested platforms and products that breathe agility through world class continuous integration and development pipelines.   
 https://www.linkedin.com/in/nicholasmcdowell      
-
-**Peter Godbolt**     
-*Blockchain Advisor*  
-Peter has extensive blockchain experience, having co-founded and led several projects. Having worked on a number of high profile token sales throught 2016 / 2017, he brings 'in the trenches' experience, along with a helicopter view of the dynamics of blockchain innovation.  
-https://www.linkedin.com/in/peter-godbolt-2255b811a    
 
 **Paweł Mordaszewski B.Sc**     
 *Full Stack Engineer*    
