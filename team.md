@@ -28,7 +28,7 @@ Pawel is a senior software engineer, battle hardened by startups working on AI, 
 *Computer Scientist & Engineer*    
 Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.  
 
-**David Nabb B.Sc (Hons) Electrical and Electronic Engineering**      
-*Developer*  
-David reluctantly admits to over 30 years of corporate IT and business experience across many industries from development through systems programming and database administration to IT leadership. His enduring passion for code, technology and finding creative and innovative solutions has led him into web design, consultancy and development particularly for small businesses, start-ups and most recently for the Hut34 Project.  
-https://au.linkedin.com/in/davidnabb
+**David Nabb B.Sc (Hons)**        
+*Developer & Engineer*    
+David reluctantly admits to over 30 years of corporate IT and business experience across many industries from development through systems programming and database administration to IT leadership. His enduring passion for code, technology and finding creative and innovative solutions has led him into web design, consultancy and development particularly for small businesses, start-ups and most recently for the Hut34 Project.    
+https://au.linkedin.com/in/davidnabb  
