@@ -7,7 +7,7 @@ Tim delivers over 20 years experience in technology, finance and commerce. He ha
 https://www.linkedin.com/in/tim-mcnamara-404221137   
 
 **Peter Godbolt**     
-*Blockchain Advisor*  
+*Blockchain Technology*  
 Peter has extensive blockchain experience, having co-founded and led several projects. Having worked on a number of high profile token sales throught 2016 / 2017, he brings 'in the trenches' experience, along with a helicopter view of the dynamics of blockchain innovation.  
 https://www.linkedin.com/in/peter-godbolt-2255b811a
 
