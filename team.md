@@ -24,6 +24,7 @@ https://au.linkedin.com/in/davidnabb
 **Shelton Fernando**       
 *Community and Education*       
 Shelton and his partner have successfully raised 2 fur babies. He has been known to dabble in the odd adrenaline filled sport and has a passion for technology and people. He ranks eating good food and coffee pretty highly also. His blockchain journey began after realizing its potential was far greater than just a currency, excited by its promise and opportunities. He brings with him over 20 years’ experience across may different industries from Insurance, Local Government, Hospitality to Not for Profits. His passion for training and education saw him thrive on the never ending challenge of translating techie speak to non-techies. He loves the Hut because his alter ego is a chatbot!  
+https://www.linkedin.com/in/sheltonmfernando/
 
 **Basit Basharat M.Comp Sc**       
 *Full Stack Engineer*      
