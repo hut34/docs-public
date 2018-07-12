@@ -20,6 +20,10 @@ https://www.linkedin.com/in/nicholasmcdowell
 *Developer & Engineer*    
 David reluctantly admits to over 30 years of corporate IT and business experience across many industries from development through systems programming and database administration to IT leadership. His enduring passion for code, technology and finding creative and innovative solutions has led him into web design, consultancy and development particularly for small businesses, start-ups and most recently for the Hut34 Project.    
 https://au.linkedin.com/in/davidnabb  
+
+**Matt Szwec B.Eng**
+*Developer & Engineer*
+Matt has experience in civil and mining project management where he worked in small, fast-moving technical teams. He entered the tech world as a developer working on an embedded solution that deployed computer-vision and AI on a IoT edge device. He enjoys solving challenging problems in novel ways.
   
 **Shelton Fernando**       
 *Community and Education*       
@@ -41,4 +45,5 @@ Pawel is a senior software engineer, battle hardened by startups working on AI, 
 **Fred Westling B.Eng B.Sc**      
 *Computer Scientist & Engineer*    
 Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.  
+
 
