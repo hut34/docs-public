@@ -49,9 +49,11 @@ Fred is a roboticist and computer scientist, with significant experience in tech
 **Lucien Antoine Tran**    
 *IoT Developer Intern*    
 Lucien is currently studying a Bachelor of Electrical Engineering and wants to pursue the electronic path rather than power. He left France 4 years ago to completely change his lifestyle. He enjoys soccer and basketball, maybe too much.    
+www.linkedin.com/in/lucien-tran-3279b4155
 
 **Marco Lau**    
 *Chatbot Developer Intern*    
 Marco has a background in Mechatronics and Biomedical Engineering, and has significant experience in software development from 2 years of Hackathons and Case Competitions. He is driven at a young age to become a leader in fintech industry and incorporate concepts from the Fourth Industrial Revolution.    
+http://www.linkedin.com/in/marco-lau-648625159
 
 
