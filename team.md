@@ -23,7 +23,8 @@ https://au.linkedin.com/in/davidnabb
 
 **Matt Szwec B.Eng**    
 *Developer & Engineer*    
-Matt has experience in civil and mining project management where he worked in small, fast-moving technical teams. He entered the tech world as a developer working on an embedded solution that deployed computer-vision and AI on a IoT edge device. He enjoys solving challenging problems in novel ways.
+Matt has experience in civil and mining project management where he worked in small, fast-moving technical teams. He entered the tech world as a developer working on an embedded solution that deployed computer-vision and AI on a IoT edge device. He enjoys solving challenging problems in novel ways.  
+https://www.linkedin.com/in/matthew-szwec/  
   
 **Shelton Fernando**       
 *Community and Education*       
