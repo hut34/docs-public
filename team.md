@@ -38,15 +38,7 @@ Basit is a husband, a dad and a super dev. He was once a cricket tragic, but now
 **Shahbaz Khurram M.Comp Sc**       
 *Full Stack Engineer*      
 Shahbaz has completed a Masters in Computer Science and has over 10 years development experience. He is avid supporter of open systems technology in addition to working extensively in Enterprise Applications, Mobile Apps and Bot development. Most recently development focus  has been startups in blockchain technology, cryptocurrencies and the Ethereum platform.  
-
-**Paweł Mordaszewski B.Sc**     
-*Full Stack Engineer*    
-Pawel is a senior software engineer, battle hardened by startups working on AI, Data Lakes, IoT, Blockchain and dApps. His mantra is test driven development and smart continuous integration and deployment pipelines. He is passionate about the future of the digital economy, digital industrial revolution and happiest when remote working from a Subaru driving around Australia.
-
-**Fred Westling B.Eng B.Sc**      
-*Computer Scientist & Engineer*    
-Fred is a roboticist and computer scientist, with significant experience in technical writing and research.  Taught by leaders in his academic fields, he provides a youthful and modern perspective based firmly in the cutting edge of computing.
-    
+ 
 **Lucien Antoine Tran**    
 *IoT Developer Intern*    
 Lucien is currently studying a Bachelor of Electrical Engineering and wants to pursue the electronic path rather than power. He left France 4 years ago to completely change his lifestyle. He enjoys soccer and basketball, maybe too much.    
