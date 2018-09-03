@@ -20,7 +20,7 @@ https://www.linkedin.com/in/nicholasmcdowell
 *Developer & Engineer*    
 David likes a challenge! He has over 30 years of corporate IT and business experience mostly in technology but more recently in leadership, innovation, creativity and problem solving being key threads throughout.
 Personal challenges too! Father of 3, partner to a head chef, Pom by birth emigrating in '99, Sheffield Wednesday fan, amateur DJ, mentor, many competitive events culminating in 2 Ironmans, a marathon & a 5km open water swim, cyclist and most other bucket list items ticked.
-An enduring passion for code, technology and finding creative and innovative solutions especially to problems others have failed to solve led him the graphic design & web design/dev space as a sideline focussing on local/small businesses & start-ups. Plus a realisation that the potential for blockchain and crytocurrencies is huge led to the ultimate challenge when he offered his services to Tim & the team and Tim accepted!
+An enduring passion for code, technology and finding creative and innovative solutions especially to problems others have failed to solve led him the graphic design & web design/dev space as a sideline focussing on local/small businesses & start-ups. Plus a realisation that the potential for blockchain and crytocurrencies is huge led to the ultimate challenge when he offered his services to Tim & the team and Tim accepted!  
 https://au.linkedin.com/in/davidnabb  
   
 **Shelton Fernando**       
