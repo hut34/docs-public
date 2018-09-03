@@ -13,18 +13,15 @@ https://www.linkedin.com/in/peter-godbolt-2255b811a
 
 **Nicholas McDowell B.Eng**    
 *Chief (Crazy) Scientist*    
-Nicholas brings to bear an extremely rich body of experience, covering areas so diverse they extend from Silicon Valley startups, to the Visual FX industry, to delivering on-the-ground solutions for the US Department of Defense. His capabilities enable him to facilitate the orchestration of architecture, design, development, test and successful delivery secure, robust and tested platforms and products that breathe agility through world class continuous integration and development pipelines.   
+Nicholas brings to bear an extremely rich body of experience, covering areas so diverse they extend from Silicon Valley startups, to the Visual FX industry, to delivering on-the-ground solutions for the US Department of Defense. His capabilities enable him to facilitate the orchestration of architecture, design, development, test and successful delivery of secure, robust and tested platforms and products that breathe agility through world class continuous integration and development pipelines.   
 https://www.linkedin.com/in/nicholasmcdowell      
 
 **David Nabb B.Sc (Hons)**        
 *Developer & Engineer*    
-David reluctantly admits to over 30 years of corporate IT and business experience across many industries from development through systems programming and database administration to IT leadership. His enduring passion for code, technology and finding creative and innovative solutions has led him into web design, consultancy and development particularly for small businesses, start-ups and most recently for the Hut34 Project.    
+David likes a challenge! He has over 30 years of corporate IT and business experience mostly in technology but more recently in leadership, innovation, creativity and problem solving being key threads throughout.
+Personal challenges too! Father of 3, partner to a head chef, Pom by birth emigrating in '99, Sheffield Wednesday fan, amateur DJ, mentor, many competitive events culminating in 2 Ironmans, a marathon & a 5km open water swim, cyclist and most other bucket list items ticked.
+An enduring passion for code, technology and finding creative and innovative solutions especially to problems others have failed to solve led him the graphic design & web design/dev space as a sideline focussing on local/small businesses & start-ups. Plus a realisation that the potential for blockchain and crytocurrencies is huge led to the ultimate challenge when he offered his services to Tim & the team and Tim accepted!
 https://au.linkedin.com/in/davidnabb  
-
-**Matt Szwec B.Eng**    
-*Developer & Engineer*    
-Matt has experience in civil and mining project management where he worked in small, fast-moving technical teams. He entered the tech world as a developer working on an embedded solution that deployed computer-vision and AI on a IoT edge device. He enjoys solving challenging problems in novel ways.  
-https://www.linkedin.com/in/matthew-szwec/  
   
 **Shelton Fernando**       
 *Community and Education*       
