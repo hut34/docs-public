@@ -12,7 +12,6 @@ Peter has extensive blockchain experience, having co-founded and led several pro
 https://www.linkedin.com/in/peter-godbolt-2255b811a
 
 **Nicholas McDowell B.Eng**    
-*Chief (Crazy) Scientist*    
 Nicholas brings to bear an extremely rich body of experience, covering areas so diverse they extend from Silicon Valley startups, to the Visual FX industry, to delivering on-the-ground solutions for the US Department of Defense. His capabilities enable him to facilitate the orchestration of architecture, design, development, test and successful delivery of secure, robust and tested platforms and products that breathe agility through world class continuous integration and development pipelines.   
 https://www.linkedin.com/in/nicholasmcdowell      
 
@@ -40,10 +39,3 @@ Shahbaz has completed a Masters in Computer Science and has over 10 years develo
 *IoT Developer Intern*    
 Lucien is currently studying a Bachelor of Electrical Engineering and wants to pursue the electronic path rather than power. He left France 4 years ago to completely change his lifestyle. He enjoys soccer and basketball, maybe too much.    
 www.linkedin.com/in/lucien-tran-3279b4155
-
-**Marco Lau**    
-*Chatbot Developer Intern*    
-Marco has a background in Mechatronics and Biomedical Engineering, and has significant experience in software development from 2 years of Hackathons and Case Competitions. He is driven at a young age to become a leader in fintech industry and incorporate concepts from the Fourth Industrial Revolution.    
-http://www.linkedin.com/in/marco-lau-648625159
-
-
