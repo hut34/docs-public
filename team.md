@@ -36,6 +36,6 @@ Basit is a husband, a dad and a super dev. He was once a cricket tragic, but now
 Shahbaz has completed a Masters in Computer Science and has over 10 years development experience. He is avid supporter of open systems technology in addition to working extensively in Enterprise Applications, Mobile Apps and Bot development. Most recently development focus  has been startups in blockchain technology, cryptocurrencies and the Ethereum platform.  
  
 **Lucien Antoine Tran**    
-*IoT Developer Intern*    
+*Software and IoT Developer Intern*    
 Lucien is currently studying a Bachelor of Electrical Engineering and wants to pursue the electronic path rather than power. He left France 4 years ago to completely change his lifestyle. He enjoys soccer and basketball, maybe too much.    
 www.linkedin.com/in/lucien-tran-3279b4155
