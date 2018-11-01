@@ -38,4 +38,4 @@ Shahbaz has completed a Masters in Computer Science and has over 10 years develo
 **Lucien Antoine Tran**    
 *Software and IoT Developer Intern*    
 Lucien is currently studying a Bachelor of Electrical Engineering and wants to pursue the electronic path rather than power. He left France 4 years ago to completely change his lifestyle. He enjoys soccer and basketball, maybe too much.    
-www.linkedin.com/in/lucien-tran-3279b4155
+https://www.linkedin.com/in/lucien-tran-3279b4155
